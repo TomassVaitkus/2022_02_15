@@ -1,0 +1,29 @@
+laikas:
+pirmadieniais ir penktadieniais 18 - 20
+
+vieta:
+pirmadieniais - jonavos g.
+penktadieniais - blc, vienybes aikste
+
+Trukme:
+4 menesiai
+
+
+laisvos dienos:
+penktadienis vasario 25 d.
+penktadienis kovo 11 d.
+pirmadienis balandzio 18 d.
+
+----------------------------------------------
+atsiusti githubo acc arturas.katvickis@gmail.com
+
+uzduotis:
+
+1)nuskaityti tekstini faila
+2)suskaiciuoti, kokiu ir kiek simboliu yra tekste
+3)isrikiuoja rezultatus, pasirinktinai - arba pagal simboliu daznuma arba abc eile
+4)issaugoti naujam tekstiniam faile
+
+
+
+
