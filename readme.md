@@ -1,5 +1,6 @@
 
 ___Tomas___
+
 uzduotis - nuskaityt faila, suskaiciuoti kokiu ir kiek simboliu yra
 psairinktam tekstiniam faile, rezultatus issaugot naujam txt faile.
 
