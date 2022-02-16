@@ -4,6 +4,8 @@ ___Tomas___
 uzduotis - nuskaityt faila, suskaiciuoti kokiu ir kiek simboliu yra
 psairinktam tekstiniam faile, rezultatus issaugot naujam txt faile.
 
+Sprendimas 22_02_15.py faile
+
 klausimai:
 1) Ar sveika rasyti tokio ilgio viena eilute?
 2) Sveikintinas dalykas yra atsidarius faila ji paskui uzdaryti, taciau as nezinau ar nera bloga praktika
